@@ -20,4 +20,4 @@ lazy val root = (project in file(".")).
     LsKeys.tags in LsKeys.lsync := Seq("sbt", "codegen")
   )
 
-version in ThisBuild := "0.5.0-P4"
+version in ThisBuild := "0.5.0-P7"
